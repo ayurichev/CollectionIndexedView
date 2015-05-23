@@ -1,0 +1,626 @@
+{
+    "data": [
+        {
+            "isPopular": true,
+            "name": "Москва",
+        },
+        {
+            "isPopular": true,
+            "name": "Санкт-Петербург",
+        },
+        {
+            "isPopular": true,
+                          
+            "name": "Екатеринбург",
+             
+        },
+        {
+            "isPopular": true,
+                          
+            "name": "Казань",
+             
+        },
+        {
+            "isPopular": true,
+                          
+            "name": "Краснодар",
+             
+        },
+        {
+            "isPopular": true,
+                          
+            "name": "Новосибирск",
+             
+        },
+        {
+            "isPopular": true,
+                          
+            "name": "Пермь",
+             
+        },
+        {
+            "isPopular": true,
+                          
+            "name": "Ростов-на-Дону",
+             
+        },
+        {
+            "isPopular": true,
+                          
+            "name": "Самара",
+             
+        },
+        {
+            "isPopular": true,
+                          
+            "name": "Уфа",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Абакан",
+             
+        },
+        {
+            "isPopular": false,
+             
+                          
+            "name": "Актау",
+             
+        },
+        {
+            "isPopular": false,
+             
+                          
+            "name": "Актобе",
+             
+        },
+        {
+            "isPopular": false,
+             
+                          
+            "name": "Алматы",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Алушта",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Анадырь",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Архангельск",
+             
+        },
+        {
+            "isPopular": false,
+             
+                          
+            "name": "Астана",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Астрахань",
+             
+        },
+        {
+            "isPopular": false,
+             
+                          
+            "name": "Атырау",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Барнаул",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Белгород",
+             
+        },
+        {
+            "isPopular": false,
+             
+                          
+            "name": "Бишкек",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Благовещенск",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Благовещенск",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Братск",
+             
+        },
+        {
+            "isPopular": false,
+             
+                          
+            "name": "Брест",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Брянск",
+             
+        },
+        {
+            "isPopular": false,
+             
+                          
+            "name": "Вильнюс",
+             
+        },
+        {
+            "isPopular": false,
+             
+            "name": "Витебск",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Владивосток",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Владикавказ",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Волгоград",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Воронеж",
+             
+        },
+        {
+            "isPopular": false,
+             
+            "name": "Гомель",
+             
+        },
+        {
+            "isPopular": false,
+            "countryId": 121,
+                          
+            "name": "Днепропетровск",
+             
+        },
+        {
+            "isPopular": false,
+            "countryId": 121,
+                          
+            "name": "Донецк",
+             
+        },
+        {
+            "isPopular": false,
+            "countryId": 121,
+                          
+            "name": "Запорожье",
+             
+        },
+        {
+            "isPopular": false,
+            "countryId": 121,
+                          
+            "name": "Ивано-Франковск",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Иркутск",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Калининград",
+             
+        },
+        {
+            "isPopular": false,
+             
+                          
+            "name": "Караганда",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Кемерово",
+             
+        },
+        {
+            "isPopular": false,
+            "countryId": 121,
+                          
+            "name": "Киев",
+             
+        },
+        {
+            "isPopular": false,
+             
+                          
+            "name": "Кишинев",
+             
+        },
+        {
+            "isPopular": false,
+             
+                          
+            "name": "Костанай",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Красноярск",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Курган",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Курск",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Липецк",
+             
+        },
+        {
+            "isPopular": false,
+            "countryId": 121,
+                          
+            "name": "Луганск",
+             
+        },
+        {
+            "isPopular": false,
+            "countryId": 121,
+            "longitude": 24,
+             
+            "name": "Львов",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Магадан",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Магнитогорск",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Махачкала",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Минеральные Воды",
+             
+        },
+        {
+            "isPopular": false,
+             
+                          
+            "name": "Минск",
+             
+        },
+        {
+            "isPopular": false,
+             
+            "name": "Могилев",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Мурманск",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Нальчик",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Нижневартовск",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Нижнекамск",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Нижний Новгород",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Новокузнецк",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Новороссийск",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Новый Уренгой",
+             
+        },
+        {
+            "isPopular": false,
+            "countryId": 121,
+                          
+            "name": "Одесса",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Омск",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Оренбург",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Орск",
+             
+        },
+        {
+            "isPopular": false,
+             
+                          
+            "name": "Павлодар",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Пенза",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Петропавловск-Камчатский",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Саратов",
+             
+        },
+        {
+            "isPopular": false,
+            "name": "Симферополь",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Сочи",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Ставрополь",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Сургут",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Сызрань",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Сыктывкар",
+             
+        },
+        {
+            "isPopular": false,
+            "countryId": 120,
+                          
+            "name": "Ташкент",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Тольятти",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Томск",
+             
+        },
+        {
+            "isPopular": false,
+            "countryId": 121,
+                          
+            "name": "Трускавец",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Тюмень",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Улан-Удэ",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Ульяновск",
+             
+        },
+        {
+            "isPopular": false,
+             
+            "name": "Уральск",
+             
+        },
+        {
+            "isPopular": false,
+             
+                          
+            "name": "Усть-Каменогорск",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Хабаровск",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Ханты-Мансийск",
+             
+        },
+        {
+            "isPopular": false,
+            "countryId": 121,
+                         "latitude": 50,
+            "name": "Харьков",
+             
+        },
+        {
+            "isPopular": false,
+            "countryId": 124,
+            "name": "Хельсинки",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Чебоксары",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Челябинск",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Чита",
+             
+        },
+        {
+            "isPopular": false,
+             
+                          
+            "name": "Шымкент",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Южно-Сахалинск",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Якутск",
+             
+        },
+        {
+            "isPopular": false,
+                          
+            "name": "Ялта",
+             
+        }
+    ],
+}
