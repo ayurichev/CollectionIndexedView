@@ -17,4 +17,4 @@ This is a subclass of UICollectionView. It presents UITableView-like layout with
 
 Index view supports scrolling by tap and pan gestures (like UITableView index does), custom fonts and insets (which UITableView doesn't support).
 
-Index is always built for last section of collection view. I wrote this class for special client needs: to provide layout for long lists of names (that can be city names, country names, hotel names). All names will be in last sectionж; first sections contains a "special" lists, i.g. biggest cities and countries, top rated hotels, etc.
+Index is always built for last section of collection view. I wrote this class for special client needs: to provide layout for long lists of names (that can be city names, country names, hotel names). All names will be in last section; first sections contains a "special" lists, i.g. biggest cities and countries, top rated hotels, etc.
