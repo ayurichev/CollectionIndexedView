@@ -10,3 +10,9 @@
 
 Идея создания такого функционала возникла в одном из проектов, где требовалось как раз обеспечить складывающиеся и нажимаемые заголовки секций. Несколько дней возни с UITableView показали, что ее средствами обеспечить такой функционал невозможно. Естественно, я стал смотреть в сторону UICollectionView с его мощнейшими возможностями по конструированию собственных layout'ов.
 Но поскольку требовалось, чтобы у всей этой конструкции был ещё и индекс, как у таблицы, пришлось писать собственный велосипед.
+
+----------
+
+This is a subclass of UICollectionView. It presents UITableView-like layout with alphabetical index view; also headers in this layout don't hide while collection view performs scrolling. Instead, all headers grouped on top of view in "collapsed" state. By tap on header view, you can "expand" a section that header view presents.
+Index view supports scrolling by tap and pan gestures (like UITableView index does), custom fonts and insets (which UITableView doesn't support).
+Index is always built for last section of collection view. I wrote this class for special client needs: to provide layout for long lists of names (that can be city names, country names, hotel names). All names will be in last sectionж; first sections contains a "special" lists, i.g. biggest cities and countries, top rated hotels, etc.
